@@ -12,7 +12,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Junior Front-End Developer
 --------------------------
 
-Passionate Junior Front-End Developer specializing in user-centric design and responsive website development. Skilled in optimizing performance and integrating cutting-edge technologies. Committed to building scalable web solutions and adept at collaborating with teams to convey technical concepts to non-technical stakeholders.
+I am a passionate Full Stack Developer with a strong foundation in front-end and back-end technologies. I enjoy creating seamless and dynamic web applications using the latest technologies.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [your-email@example.com](mailto:your-email@example.com)
