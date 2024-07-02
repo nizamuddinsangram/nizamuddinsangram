@@ -1,6 +1,7 @@
 
 
-![Profile Banner](https://github.com/nizamuddinsangram/nizamuddinsangram/blob/main/Blue%20and%20Yellow%20Minimalist%20Web%20Development%20Instagram%20Post.png)
+<img src="https://github.com/nizamuddinsangram/nizamuddinsangram/blob/main/web%20developer.jpg" alt="Profile Banner" style="width: 100%; height: auto;" />
+
 
 <div align="center">
 
