@@ -56,32 +56,20 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="25" alt="xd logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" alt="linux logo"  />
+  
+  
   <img width="4" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="25" alt="powershell logo"  />
+  
   <img width="4" />
   <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white&style=for-the-badge" height="25" alt="google logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge" height="25" alt="codepen logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" alt="adobeillustrator logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="25" alt="firefox logo"  />
+  
+ 
   <img width="4" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="25" alt="discord logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="25" alt="canva logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" alt="illustrator logo"  />
+ 
 </div>
 
 ---
