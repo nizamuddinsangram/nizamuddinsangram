@@ -9,12 +9,11 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Nizam Uddin Sangram
 ===========================================================================================================================================
 
-Junior Front-End Developer
---------------------------
 <div align="left">
   <div style="display: flex; justify-content: space-between;">
     <div>
-    
+      <h3>Junior Front-End Developer</h3>
+      ---------------------------------
       <p>I am a passionate Full Stack Developer with a strong foundation in front-end and back-end technologies. I enjoy creating seamless and dynamic web applications using the latest technologies.</p>
       <ul>
         <li>🌍 I'm based in Dhaka, Bangladesh</li>
