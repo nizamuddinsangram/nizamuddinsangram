@@ -10,27 +10,27 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 ===========================================================================================================================================
 
 <div align="left">
-  <div style="display: flex; justify-content: space-between;">
-    <div>
-      <h3>Junior Front-End Developer</h3>
-      ---------------------------------
-      <p>I am a passionate Full Stack Developer with a strong foundation in front-end and back-end technologies. I enjoy creating seamless and dynamic web applications using the latest technologies.</p>
-      <ul>
-        <li>🌍 I'm based in Dhaka, Bangladesh</li>
-        <li>✉️ You can contact me at [your-email@example.com](mailto:your-email@example.com)</li>
-        <li>🧠 I'm learning Next.js, TypeScript</li>
-        <li>🤝 I'm open to collaborating on MERN stack projects</li>
-        <li>⚡ Passionate about Web Application Development, React, Next, MongoDB, Express, Node</li>
-      </ul>
-    </div>
-    <div>
-      <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Coding Animation" />
-    </div>
-  </div>
+  <img align="right" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Coding Animation" />
+  <h3>Junior Front-End Developer</h3>
+  <p>I am a passionate Full Stack Developer with a strong foundation in front-end and back-end technologies. I enjoy creating seamless and dynamic web applications using the latest technologies.</p>
+  <ul>
+    <li>🌍 I'm based in Dhaka, Bangladesh</li>
+    <li>✉️ You can contact me at [your-email@example.com](mailto:your-email@example.com)</li>
+    <li>🧠 I'm learning Next.js, TypeScript</li>
+    <li>🤝 I'm open to collaborating on MERN stack projects</li>
+    <li>⚡ Passionate about Web Application Development, React, Next, MongoDB, Express, Node</li>
+  </ul>
 </div>
-
 ---
+------------------------------
+<img align="right" alt="Coding" width="400" src="./assets/side-right.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidtdx61&label=Profile%20views&color=0e75b6&style=flat" alt="zahidtdx61" /> </p>
+
+<h3 align="left">🚀 About Me</h3>
+<p align="left">I'm a passionate developer with a keen interest in development, competitive programming, software development, and open-source contribution. My goal is to continuously learn and grow while contributing to exciting projects.</p>
+
+-----------------------------
 <h3 align="left">👏  Skills</h3>
 
 <div align="left">
